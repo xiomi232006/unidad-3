@@ -1,0 +1,31 @@
+
+body{
+    margin: 0;
+    padding: o;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+
+.blog{
+    background-color: rgb(142, 89, 190);
+    padding: 50px;
+}
+
+.flex-child{
+    padding: 50px;
+    width: 200px;
+}
+
+.flex{
+  max-width: 1000px;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+}
+.info{
+    padding: 60px;
+    background-color: cadetblue;
+}
+
